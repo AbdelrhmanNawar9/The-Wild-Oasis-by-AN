@@ -63,7 +63,7 @@ npm install
 npm run dev
 ```
 
-4. Open the app in your browser at the provided local development server.
+4. Open the app in your browser at the provided local development server, probably: http://localhost:5173/
 
 ## Project Structure
 
