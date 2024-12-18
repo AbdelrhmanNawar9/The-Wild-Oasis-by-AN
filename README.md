@@ -94,7 +94,7 @@ the-wild-oasis/
 
 Screenshots
 
-Include some screenshots of your application here to give users a quick preview.
+![alt text](image.png)
 
 Deployment
 
