@@ -47,8 +47,8 @@ Follow these steps to run the project locally:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/the-wild-oasis.git
-   cd the-wild-oasis
+   git clone https://github.com/your-username/The-Wild-Oasis-by-AN.git
+   cd The-Wild-Oasis-by-AN
    ```
 
 2. Install dependencies:
