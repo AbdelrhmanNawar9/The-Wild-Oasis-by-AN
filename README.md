@@ -31,7 +31,7 @@ These details allow you to log in and experience the application's full function
 
 ## Screenshots
 
-![alt text](image.png)
+![alt screen capture](image.png)
 
 ## Getting Started
 
